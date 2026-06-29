@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Jonnalagadda Yeswanth Durga Sai Krishna</h1>
+<h3 align="center">
+AWS Cloud & AI/ML Enthusiast | Python • Java • SQL | Docker | Machine Learning
+</h3>
+
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>🔭 I'm currently working on **Cloud Computing and AI/ML Projects using AWS & Python**<br><br>🤝 I'm looking to collaborate on **Open Source, AI/ML, Cloud Computing, and Full-Stack Projects**<br><br>🛠️ I'm looking for help with **Advanced System Design, DevOps, and AWS Architecture**<br><br>🌱 I'm currently learning **Data Structures & Algorithms, Deep Learning, Docker, and Advanced AWS Services**<br><br>💬 Ask me about **Python, Java, SQL, AWS (EC2, Lambda, S3, VPC), AI/ML Fundamentals, DBMS, and OOP**<br><br>⚡ Fun fact: **I enjoy turning real-world problems into scalable cloud-based solutions.**
 
